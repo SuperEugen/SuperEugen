@@ -1,4 +1,4 @@
-## Hi there 👋 I am SuperEugen :man_superhero:
+## Hi there 👋 I am SuperEugen 🦸‍♂️
 
 - 🌱 I’m currently learning Godot 
 
